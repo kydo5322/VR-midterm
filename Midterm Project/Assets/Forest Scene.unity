@@ -288,7 +288,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 99877506}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -421,15 +421,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.1
+      value: -20.6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.85
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 11.8
+      value: 18.7
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
       propertyPath: m_LocalRotation.x
@@ -462,6 +462,18 @@ PrefabInstance:
     - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81da8289411ff4c4a9b218ba845e7df3, type: 3}
@@ -610,7 +622,7 @@ Transform:
   m_GameObject: {fileID: 1351539048}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.5, y: 3, z: 2.5}
+  m_LocalScale: {x: 4, y: 3, z: 4}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
