@@ -7,7 +7,7 @@ public class enemyfollow : MonoBehaviour
     public Transform Player;
     int MoveSpeed = 4;
     int MaxDist = 8;
-    int MinDist = 2;
+    int MinDist = 3;
 
 
 
